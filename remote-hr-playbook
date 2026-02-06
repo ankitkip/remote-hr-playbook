@@ -1,0 +1,26 @@
+remote-hr-playbook/
+│
+├── README.md
+│
+├── onboarding/
+│   ├── 01-pre-joining.md
+│   ├── 02-first-week.md
+│   └── 03-first-90-days.md
+│
+├── culture/
+│   ├── values-in-action.md
+│   ├── remote-rituals.md
+│   └── slack-communication-guide.md
+│
+├── performance/
+│   ├── goal-setting.md
+│   ├── feedback-vs-warning.md
+│   └── quarterly-reviews.md
+│
+├── learning/
+│   ├── fresher-growth-path.md
+│   └── learning-culture.md
+│
+└── security-awareness/
+    ├── employee-dos-donts.md
+    └── phishing-awareness.md
